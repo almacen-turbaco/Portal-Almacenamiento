@@ -105,7 +105,7 @@
     <h2>Pilares DPO</h2>
     <p>Consulta aquí los pilares:</p>
     <ul>
-      <li><a href="#">Seguridad/Safety - Power BI</a></li>
+      <li><a href="#">Seguridad/Safety</a></li>
       <li><a href="#">Almacen/Warehouse</a></li> 
       <li><a href="#">Flota/Fleet</a></li> 
       <li><a href="#">Gente/People </a></li> 
